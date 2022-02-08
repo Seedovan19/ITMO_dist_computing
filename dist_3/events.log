@@ -1,0 +1,17 @@
+1: process 3 (pid  7593, parent  7590) has STARTED with balance $30
+4: process 0 received all STARTED messages
+1: process 2 (pid  7592, parent  7590) has STARTED with balance $20
+1: process 1 (pid  7591, parent  7590) has STARTED with balance $10
+3: process 2 received all STARTED messages
+3: process 1 received all STARTED messages
+3: process 3 received all STARTED messages
+7: process 1 transferred $ 1 to process 2
+9: process 2 received $ 1 from process 1
+13: process 2 transferred $ 2 to process 3
+15: process 3 received $ 2 from process 2
+19: process 3 transferred $ 1 to process 1
+21: process 1 received $ 1 from process 3
+25: process 2 has DONE with balance $19
+25: process 1 has DONE with balance $10
+25: process 3 has DONE with balance $31
+28: process 0 received all DONE messages
