@@ -1,0 +1,48 @@
+Write pipe opened! From process with id 0 to process with id 1
+Read pipe opened! Reading from process with id 0 in process with id 1
+Write pipe opened! From process with id 0 to process with id 2
+Read pipe opened! Reading from process with id 0 in process with id 2
+Write pipe opened! From process with id 1 to process with id 0
+Read pipe opened! Reading from process with id 1 in process with id 0
+Write pipe opened! From process with id 1 to process with id 2
+Read pipe opened! Reading from process with id 1 in process with id 2
+Write pipe opened! From process with id 2 to process with id 0
+Read pipe opened! Reading from process with id 2 in process with id 0
+Write pipe opened! From process with id 2 to process with id 1
+Read pipe opened! Reading from process with id 2 in process with id 1
+Closed write pipe. Was writing from 1 to 0, 
+Closed read pipe. Was reading in 1 from 0, 
+Closed write pipe. Was writing from 1 to 2, 
+Closed read pipe. Was reading in 1 from 2, 
+Closed write pipe. Was writing from 2 to 0, 
+Closed read pipe. Was reading in 2 from 0, 
+Closed write pipe. Was writing from 2 to 1, 
+Closed read pipe. Was reading in 2 from 1, 
+Closed write pipe. Was writing from 0 to 1, 
+Closed read pipe. Was reading in 0 from 1, 
+Closed write pipe. Was writing from 0 to 2, 
+Closed read pipe. Was reading in 0 from 2, 
+Closed write pipe. Was writing from 2 to 0, 
+Closed read pipe. Was reading in 2 from 0, 
+Closed write pipe. Was writing from 2 to 1, 
+Closed read pipe. Was reading in 2 from 1, 
+Closed write pipe. Was writing from 0 to 1, 
+Closed read pipe. Was reading in 0 from 1, 
+Closed write pipe. Was writing from 0 to 2, 
+Closed read pipe. Was reading in 0 from 2, 
+Closed write pipe. Was writing from 1 to 0, 
+Closed read pipe. Was reading in 1 from 0, 
+Closed write pipe. Was writing from 1 to 2, 
+Closed read pipe. Was reading in 1 from 2, 
+Closed read pipe. Was reading in 1 from 0, 
+Closed write pipe. Was writing from 1 to 0, 
+Closed read pipe. Was reading in 1 from 2, 
+Closed write pipe. Was writing from 1 to 2, 
+Closed read pipe. Was reading in 2 from 0, 
+Closed write pipe. Was writing from 2 to 0, 
+Closed read pipe. Was reading in 2 from 1, 
+Closed write pipe. Was writing from 2 to 1, 
+Closed read pipe. Was reading in 0 from 1, 
+Closed write pipe. Was writing from 0 to 1, 
+Closed read pipe. Was reading in 0 from 2, 
+Closed write pipe. Was writing from 0 to 2, 
