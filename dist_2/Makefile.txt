@@ -1,0 +1,9 @@
+build: *.h *.c
+	clang -L. -lruntime -Wall -pedantic -std=c99 *.c -o pa2
+run: build
+	LD_PRELOAD=/libruntime.so ./pa2 –p 5 10 20 30 40 90
+clean:
+	rm -f pa2
+	rm -f *.log
+	
+	
